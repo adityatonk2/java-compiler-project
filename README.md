@@ -12,8 +12,12 @@ final-year-project/
 markdown
 Copy
 Edit
-
-- `Main.java`: Core Java source file containing the compiler logic.
+to install source code into your system
+git clone <project link>
+then go to terminal locate and acess the folder in which the file is currently situated
+cd <folderName> 
+- `Main.java`: Core Java source file
+ containing the compiler logic.
 - `AdityaTonk.pdf`: Final year project report or documentation.
 
 ## 🚀 How to Run
